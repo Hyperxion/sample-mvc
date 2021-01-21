@@ -1,0 +1,3 @@
+com\edemko\web\controller\WelcomeController.class
+com\edemko\web\config\SpringConfig.class
+com\edemko\web\WebInitializer.class

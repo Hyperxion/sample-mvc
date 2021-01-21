@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="1" failures="1" name="TestWelcome" time="0.268" errors="0" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="java.vm.version" value="11.0.9.1+1-LTS"/>
+    <property name="sun.boot.library.path" value="C:\Users\P3503162\scoop\apps\ojdkbuild11\current\bin"/>
+    <property name="user.country.format" value="SK"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Dev\Projects\sample-mvc"/>
+    <property name="java.vm.vendor" value="ojdkbuild"/>
+    <property name="java.vendor.url" value="https://github.com/ojdkbuild"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Dev\Projects\sample-mvc"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="java.runtime.version" value="11.0.9.1+1-LTS"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\P3503162\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="C:\Dev\Maven\apache-maven-3.6.3-bin\apache-maven-3.6.3\bin\..\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Users\P3503162\scoop\apps\ojdkbuild11\current\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\MongoDB\Server\4.4\bin;%JAVA_HOME%\bin;C:\Dev\Maven\\bin;C:\Users\P3503162\Downloads\mflix-java\mflix\src\main\resources\build\static\mongodb-database-tools-windows-x86_64-100.2.1\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Dev\Maven\apache-maven-3.6.3-bin\apache-maven-3.6.3\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files\TortoiseGit\bin;C:\Program Files\PuTTY\;C:\Users\P3503162\scoop\apps\ojdkbuild11\current\bin;C:\Users\P3503162\scoop\apps\openjdk11\current\bin;C:\Users\P3503162\scoop\apps\ojdkbuild8\current\bin;C:\Users\P3503162\scoop\shims;C:\Users\P3503162\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\bin;C:\Users\P3503162\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\P3503162\AppData\Roaming\npm;C:\Dev\Maven\apache-maven-3.6.3-bin\apache-maven-3.6.3\bin;."/>
+    <property name="maven.conf" value="C:\Dev\Maven\apache-maven-3.6.3-bin\apache-maven-3.6.3\bin\../conf"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="55.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="library.jansi.path" value="C:\Dev\Maven\apache-maven-3.6.3-bin\apache-maven-3.6.3\bin\..\lib\jansi-native"/>
+    <property name="user.home" value="C:\Users\P3503162"/>
+    <property name="user.timezone" value="Europe/Prague"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="user.name" value="P3503162"/>
+    <property name="java.class.path" value="C:\Dev\Maven\apache-maven-3.6.3-bin\apache-maven-3.6.3\bin\..\boot\plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean install -U"/>
+    <property name="java.home" value="C:\Users\P3503162\scoop\apps\ojdkbuild11\current"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language.format" value="sk"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="11.0.9.1"/>
+    <property name="java.vendor" value="ojdkbuild"/>
+    <property name="sun.stderr.encoding" value="cp437"/>
+    <property name="maven.home" value="C:\Dev\Maven\apache-maven-3.6.3-bin\apache-maven-3.6.3\bin\.."/>
+    <property name="file.separator" value="\"/>
+    <property name="java.version.date" value="2020-11-04"/>
+    <property name="java.vendor.url.bug" value="https://github.com/ojdkbuild/ojdkbuild/issues"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="sun.stdout.encoding" value="cp437"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="TestWelcome" name="TestWelcome.testWelcome" time="0.268">
+    <failure type="java.lang.NullPointerException">java.lang.NullPointerException
+	at TestWelcome.testWelcome(TestWelcome.java:31)
+</failure>
+    <system-out>11:22:02,657 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Could NOT find resource [logback-test.xml]
+11:22:02,658 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Could NOT find resource [logback.groovy]
+11:22:02,658 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Found resource [logback.xml] at [file:/C:/Dev/Projects/sample-mvc/target/classes/logback.xml]
+11:22:02,787 |-INFO in ch.qos.logback.classic.joran.action.ConfigurationAction - debug attribute not set
+11:22:02,787 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - About to instantiate appender of type [ch.qos.logback.core.ConsoleAppender]
+11:22:02,792 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - Naming appender as [STDOUT]
+11:22:02,841 |-WARN in ch.qos.logback.core.ConsoleAppender[STDOUT] - This appender no longer admits a layout as a sub-component, set an encoder instead.
+11:22:02,841 |-WARN in ch.qos.logback.core.ConsoleAppender[STDOUT] - To ensure compatibility, wrapping your layout in LayoutWrappingEncoder.
+11:22:02,841 |-WARN in ch.qos.logback.core.ConsoleAppender[STDOUT] - See also http://logback.qos.ch/codes.html#layoutInsteadOfEncoder for details
+11:22:02,842 |-INFO in ch.qos.logback.classic.joran.action.LoggerAction - Setting level of logger [com.mkyong.web] to DEBUG
+11:22:02,842 |-INFO in ch.qos.logback.classic.joran.action.LoggerAction - Setting additivity of logger [com.mkyong.web] to false
+11:22:02,842 |-INFO in ch.qos.logback.core.joran.action.AppenderRefAction - Attaching appender named [STDOUT] to Logger[com.mkyong.web]
+11:22:02,843 |-INFO in ch.qos.logback.classic.joran.action.RootLoggerAction - Setting level of ROOT logger to ERROR
+11:22:02,843 |-INFO in ch.qos.logback.core.joran.action.AppenderRefAction - Attaching appender named [STDOUT] to Logger[ROOT]
+11:22:02,843 |-INFO in ch.qos.logback.classic.joran.action.ConfigurationAction - End of configuration.
+11:22:02,844 |-INFO in ch.qos.logback.classic.joran.JoranConfigurator@306cf3ea - Registering current configuration as safe fallback point
+
+</system-out>
+  </testcase>
+</testsuite>

@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestWelcome
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.268 sec <<< FAILURE!
+TestWelcome.testWelcome()  Time elapsed: 0.268 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at TestWelcome.testWelcome(TestWelcome.java:31)
+
